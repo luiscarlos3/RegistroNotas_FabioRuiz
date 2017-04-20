@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cursos>
+  <curso>
+    <codCurso>010</codCurso>
+    <descripcion>SISTEMAS</descripcion>
+  </curso>
+  <curso>
+    <codCurso>020</codCurso>
+    <descripcion>FINANZAS</descripcion>
+  </curso>
+  <curso>
+    <codCurso>12354</codCurso>
+    <descripcion>fabio</descripcion>
+  </curso>
+  <curso>
+    <codCurso>125478</codCurso>
+    <descripcion>sistema</descripcion>
+  </curso>
+</cursos>

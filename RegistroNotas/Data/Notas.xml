@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<notas>
+  <nota>
+    <fecha_consulta>17-04-2017</fecha_consulta>
+    <hora_consulta>09:33 p.m.</hora_consulta>
+    <codEstudiante>1234</codEstudiante>
+    <nombre>JUAN PEREZ</nombre>
+    <nombre_curso>SISTEMAS</nombre_curso>
+    <calificacion1>180</calificacion1>
+    <calificacion2>100</calificacion2>
+    <calificacionDef>2,8</calificacionDef>
+    <resultado>NO APROBADO</resultado>
+  </nota>
+  <nota>
+    <fecha_consulta>18-04-2017</fecha_consulta>
+    <hora_consulta>01:50 p.m.</hora_consulta>
+    <codEstudiante>1234</codEstudiante>
+    <nombre>JUAN PEREZ</nombre>
+    <nombre_curso>sistema</nombre_curso>
+    <calificacion1>200</calificacion1>
+    <calificacion2>125</calificacion2>
+    <calificacionDef>3,25</calificacionDef>
+    <resultado>APROBADO</resultado>
+  </nota>
+</notas>
